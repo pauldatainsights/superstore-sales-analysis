@@ -4,6 +4,7 @@ Interactive Tableau dashboard exploring sales performance, profitability drivers
 
 ## Project Overview
 This project analyzes the Sample Superstore dataset to identify key profit leaks and provide actionable recommendations for improving margins.  
+
 I performed initial exploratory data analysis and KPI calculations in Excel, then built an interactive dashboard in Tableau.
 
 ## Files Included
@@ -23,3 +24,6 @@ I performed initial exploratory data analysis and KPI calculations in Excel, the
 ## Recommendations
 - Cap discounts on low-margin categories (especially Furniture).  
 - Focus promotions on Technology products in high-performing regions.
+
+## Dashboard Preview
+![Superstore Dashboard](screenshots/dashboard.png)
